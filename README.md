@@ -13,8 +13,10 @@ This repository is made for practice purpose. It's about a simulation of one of 
 
 The branches are kept undeleted to provide history (to understand the evolution of the codebase), and make it easier for viewers to review the changes.
 
+**<span style="color: #d35400">This manipulation may not be correct</span>**
+
 - [Feature Branching (GitHub Flow)](https://github.com/MrChehine/todo-laravel-8) ✅
-- Release Branching ⏳
+- Release Branching ✅
 - [Git Flow](https://github.com/MrChehine) 🔜
 
 
