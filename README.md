@@ -17,7 +17,7 @@ The branches are kept undeleted to provide history (to understand the evolution 
 
 - [Feature Branching (GitHub Flow)](https://github.com/MrChehine/todo-laravel-8-feature-branching) ✅
 - Release Branching ✅
-- [Git Flow](https://github.com/MrChehine) 🔜
+- [Git Flow](https://github.com/MrChehine) ⏳
 
 
 ## About The App
